@@ -9,7 +9,7 @@
 
 1. clone this repo
 2. copy `.env.example` as `.env` and add your aws credentials into `.env` file
-3. install packages using: ` npm install`` or  `yarn install`
+3. install packages using: ` npm install` or  `yarn install`
 
 ## Run
 
